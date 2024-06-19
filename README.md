@@ -1,2 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats-mike-cuello.vercel.app/api?username=MCuello17&theme=gotham&hide=issues,contribs&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-mike-cuello.vercel.app//api/top-langs/?username=MCuello17&layout=compact&hide_progress=true&theme=gotham&hide=php)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-mike-cuello.vercel.app/api?username=MCuello17&theme=gotham&hide=issues,contribs&count_private=true&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mike-cuello.vercel.app//api/top-langs/?username=MCuello17&theme=gotham&hide=php&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
